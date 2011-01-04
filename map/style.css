@@ -1,0 +1,85 @@
+body {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 8pt; color: #000000; text-decoration: none;
+	background-color: #003366;
+	SCROLLBAR-FACE-COLOR: #2E609F; SCROLLBAR-HIGHLIGHT-COLOR: #cfcfcf; SCROLLBAR-SHADOW-COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #003366; SCROLLBAR-ARROW-COLOR: #F0F0F0; SCROLLBAR-TRACK-COLOR: #4D89CC; SCROLLBAR-DARKSHADOW-COLOR: #adcca6
+}
+
+td {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 9pt; color: #000000; text-decoration: none
+}
+
+th {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 9pt; color: #000000; text-decoration: none
+}
+
+.tygia TD{
+	font-family: Arial;
+	font-size: 9px; color: #000000;
+}
+
+A:link {
+	COLOR: #003098; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #003098; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #3366FF; TEXT-DECORATION: underline
+}
+A.nav:link {
+	COLOR: #ffffff; TEXT-DECORATION: none; FONT-WEIGHT: bold;
+}
+A.nav:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none; FONT-WEIGHT: bold;
+}
+A.nav:hover {
+	COLOR: #ffff00; TEXT-DECORATION: none; FONT-WEIGHT: bold;
+}
+A.navc:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.navc:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.navc:hover {
+	COLOR: red; TEXT-DECORATION: none
+}
+A.navt:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.navt:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.navt:hover {
+	COLOR: red; TEXT-DECORATION: none
+}
+A.tnav:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.tnav:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.tnav:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+
+input.textbox{
+	font-family: Verdana; font-size: 8pt; color: #333333; border-style: solid; border-width: 1
+}
+
+input.button{
+	font-family: Verdana; font-size: 8pt; border-style: solid; border-width: 0
+}
+
+DIV {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.clsCMOn {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; COLOR: #FFFFFF; PADDING-TOP: 2px; TEXT-DECORATION: none; FONT-WEIGHT: bold;
+}
+.clsCMOver {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; COLOR: #FFFFFF; PADDING-TOP: 2px; TEXT-DECORATION: none; FONT-WEIGHT: bold;
+}
