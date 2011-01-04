@@ -1,0 +1,53 @@
+.newscattitle
+{
+font-family: Tahoma; 
+font-weight: bold; 
+color: #ffffff; 
+font-size: 8.5pt; 
+background-color: #5692D5;
+}
+
+.newstitle
+{
+font-family: Tahoma; 
+font-weight: bold; 
+color: #0; 
+font-size: 8.5pt; 
+}
+
+.newscontent
+{
+font-family: Tahoma; 
+color: #0; 
+font-size: 10pt; 
+}
+
+.newsdate
+{
+font-family: Tahoma; 
+font-weight: none; 
+color: #c60000; 
+font-size: 8.5pt; 
+}
+
+.tindadua
+{
+font-family: Tahoma; 
+font-weight: bold; 
+color: #ff0000; 
+font-size: 8.5pt; 
+}
+
+.newssubtitle
+{
+font-family: Tahoma; 
+color: #0; 
+font-size: 8.5pt; 
+}
+
+.newsfont
+{
+font-family: Tahoma; 
+font-size: 8.5pt; 
+color: #000000;
+}

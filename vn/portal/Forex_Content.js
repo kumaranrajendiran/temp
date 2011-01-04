@@ -1,0 +1,13 @@
+var vForex1  = 'USD';  var vCost1  = '16,090.00';
+var vForex2  = 'EUR';  var vCost2  = '21,263.00';
+var vForex3  = 'GBP';  var vCost3  = '31,779.00';
+var vForex4  = 'JPY';  var vCost4  = '137.15';
+var vForex5  = 'AUD';  var vCost5  = '12,698.00';
+var vForex6  = 'HKD';  var vCost6  = '2,087.00';
+var vForex7  = 'CHF';  var vCost7  = '13,344.00';
+var vForex8  = 'THB';  var vCost8  = '465.78';
+var vForex9  = 'CAD';  var vCost9  = '14,005.00';
+var vForex10 = 'SGD'; var vCost10 = '10,512.00';
+var vForex11 = 'SEK'; var vCost11 = '2,361.00';
+var vForex12 = 'DKK'; var vCost12 = '2,868.00';
+var vForex13 = 'NOK'; var vCost13 = '2,622.00';
